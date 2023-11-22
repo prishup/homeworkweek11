@@ -1,0 +1,33 @@
+
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ı¹»ûÿÿÿÿ8Ò õ²¿1
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŒÚ¢şÿÿÿÿ8Ò õ²¿1
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÊçâ8Ó õ²¿1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€ÓŸ¶øÿÿÿÿ8Ö õ²¿1
+d
+java:S2184%"BCast one of the operands of this addition operation to a "double".(¦ı¹»ûÿÿÿÿ8Ø õ²¿1
+U
+java:S1854"8Remove this useless assignment to local variable "name".(ÒËñé8ùªõ²¿1
+V
+java:S1854."9Remove this useless assignment to local variable "Grade".(È·Ì²8úªõ²¿1
+[
+java:S18540"9Remove this useless assignment to local variable "Grade".(Ù¨ûƒıÿÿÿÿ8ûªõ²¿1
+[
+java:S18542"9Remove this useless assignment to local variable "Grade".(İ¢ü“úÿÿÿÿ8ûªõ²¿1
+V
+java:S18544"9Remove this useless assignment to local variable "Grade".(ƒ´İ8üªõ²¿1
+U
+java:S18546"9Remove this useless assignment to local variable "Grade".(Ö†’S8üªõ²¿1
+L	java:S106
+"+Replace this use of System.out by a logger.(ÁËüÓúÿÿÿÿ8‹«õ²¿1
+F
+java:S1481")Remove this unused "name" local variable.(ÒËñé8“«õ²¿1
+L	java:S106"+Replace this use of System.out by a logger.(Ó‘Ûíşÿÿÿÿ8•«õ²¿1
+G	java:S106"+Replace this use of System.out by a logger.(Œ­ÿ8˜«õ²¿1
+L	java:S106"+Replace this use of System.out by a logger.(œ•ÑÊÿÿÿÿÿ8«õ²¿1
+L	java:S106"+Replace this use of System.out by a logger.(ãˆó¯ıÿÿÿÿ8¥«õ²¿1
+L	java:S106"+Replace this use of System.out by a logger.(Ó‘Ûíşÿÿÿÿ8§«õ²¿1
+G	java:S106"+Replace this use of System.out by a logger.(Œ­ÿ8¨«õ²¿1
+L	java:S106!"+Replace this use of System.out by a logger.(œ•ÑÊÿÿÿÿÿ8©«õ²¿1
+G	java:S106&"+Replace this use of System.out by a logger.(çúÚÖ8««õ²¿1
+G	java:S106)"+Replace this use of System.out by a logger.(ÓË”î8­«õ²¿1
+G	java:S106:"+Replace this use of System.out by a logger.(¹ıŒº8±«õ²¿1

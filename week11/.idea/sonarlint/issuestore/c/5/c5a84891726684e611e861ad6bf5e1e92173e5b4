@@ -1,0 +1,13 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8æœõ²¿1
+G	java:S106"+Replace this use of System.out by a logger.(Òçû©8òœõ²¿1
+L	java:S106#"+Replace this use of System.out by a logger.(¡…Ñ¹ÿÿÿÿÿ8÷œõ²¿1
+L	java:S106'"+Replace this use of System.out by a logger.(ìÆó™ÿÿÿÿÿ8úœõ²¿1
+F	java:S106+"+Replace this use of System.out by a logger.(×Ë8üœõ²¿1
+G	java:S1060"+Replace this use of System.out by a logger.(Òçû©8€õ²¿1
+L	java:S1063"+Replace this use of System.out by a logger.(£àÅÓùÿÿÿÿ8‚õ²¿1
+L	java:S1066"+Replace this use of System.out by a logger.(ìÆó™ÿÿÿÿÿ8„õ²¿1
+F	java:S1069"+Replace this use of System.out by a logger.(×Ë8…õ²¿1
+F	java:S106;"+Replace this use of System.out by a logger.(¢Úğ
+8‡õ²¿1
